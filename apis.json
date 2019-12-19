@@ -1,0 +1,64 @@
+{
+    "name": "TextMarks SMS",
+    "description": "TextMarks SMS software for customer and employee communications. Provider of mass text message alerts, auto text reply and lead capture solutions.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/497-textmarks-sms.jpg",
+    "tags": [
+        "have api",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/textmarks-sms\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TextMarks SMS",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/497-textmarks-sms.jpg",
+            "humanURL": "http:\/\/lite.textmarks.com\/dev\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/textmarks-sms-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/lite.textmarks.com\/dev\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.textmarks.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.textmarks.com\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/textmarks"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/textmarks"
+        },
+        {
+            "type": "Email",
+            "url": "tmsupport@textmarks.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@textmarks.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/textmarks"
+        }
+    ]
+}
